@@ -8,9 +8,9 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
-    
-    </div>
+        <div>
+            <asp:Label runat="server" Text="prueba"></asp:Label>
+        </div>
     </form>
 </body>
 </html>
