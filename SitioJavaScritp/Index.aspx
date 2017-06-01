@@ -2,19 +2,16 @@
 
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es">
 <head runat="server">
-    <title></title>
+    <title>Ejemplo de conceptos  básicos</title>
+    <meta charset="iso-8859-1">
+    <meta name="description" content="Ejemplo de HTML5">
+    <meta name="keywords" content="HTML5, CSS3, Javascript">
 </head>
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:Label runat="server" Text="prueba"></asp:Label>
-             <asp:Label runat="server" Text="prueba"></asp:Label>
-             <asp:Label runat="server" Text="prueba"></asp:Label>
-            <asp:Label runat="server" Text="prueba"></asp:Label>
-             <asp:Label runat="server" Text="prueba"></asp:Label>
-             <asp:Label runat="server" Text="prueba"></asp:Label>
         </div>
     </form>
 </body>
