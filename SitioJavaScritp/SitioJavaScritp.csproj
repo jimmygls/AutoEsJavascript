@@ -186,6 +186,8 @@
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
     <Content Include="packages.config" />
+    <Content Include="Documentacion\el-gran-libro-de-html5-css3-y-javascript.pdf" />
+    <Content Include="Documentacion\manual_de_javascript.pdf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
