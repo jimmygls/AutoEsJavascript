@@ -22,8 +22,33 @@
         </ul>
     </nav>
     <section>
-        <article>Este es el texto de mi primer mensaje    </article>
-        <article>Este es el texto de mi segundo mensaje    </article>
+        <article>
+
+            <header>
+                <hgroup>
+                    <h1>Titulo</h1>
+                    <h2>SubTitulo</h2>
+
+                </hgroup>
+            </header>
+            <footer>pie uno</footer>
+
+        </article>
+
+        <article>
+
+            <header>
+                <hgroup>
+                    <h1>Titulo</h1>
+                    <h2>SubTitulo</h2>
+
+                </hgroup>
+            </header>
+            <footer>
+                pie dos
+            </footer>
+
+        </article>
     </section>
 
     <aside>
