@@ -10,9 +10,28 @@
     <meta name="keywords" content="HTML5, CSS3, Javascript">
 </head>
 <body>
-    <form id="form1" runat="server">
-        <div>
-        </div>
-    </form>
+    <header>
+        Este es mi autoestudio de javascript para fullstack
+    </header>
+    <nav>
+        <ul>
+            <li>Introducción</li>
+            <li>Explicación Codigos</li>
+            <li>Ejemplos</li>
+            <li>Contacto</li>
+        </ul>
+    </nav>
+    <section>
+        <article>Este es el texto de mi primer mensaje    </article>
+        <article>Este es el texto de mi segundo mensaje    </article>
+    </section>
+
+    <aside>
+        <blockquote>Mensaje número uno</blockquote>
+        <blockquote>Mensaje número dos</blockquote>
+    </aside>
+    <footer>
+        Jymmygls
+    </footer>
 </body>
 </html>
