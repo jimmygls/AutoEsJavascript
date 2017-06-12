@@ -8,10 +8,12 @@
     <meta charset="iso-8859-1">
     <meta name="description" content="Ejemplo de HTML5">
     <meta name="keywords" content="HTML5, CSS3, Javascript">
+    <link rel="stylesheet" href="CSS/Main.css" />
 </head>
 <body>
     <header>
         Este es mi autoestudio de javascript para fullstack
+        <p>Muy bueno</p>
     </header>
     <nav>
         <ul>
@@ -20,16 +22,18 @@
             <li>Ejemplos</li>
             <li>Contacto</li>
         </ul>
+        <p>Muy bueno dos</p>
     </nav>
     <section>
         <article>
 
             <header>
                 <hgroup>
-                    <h1>Titulo</h1>
+                    <h1>Titulo UNO</h1>
                     <h2>SubTitulo</h2>
 
                 </hgroup>
+                <p>Muy bueno tres</p>
             </header>
             <footer>pie uno</footer>
 
@@ -39,7 +43,7 @@
 
             <header>
                 <hgroup>
-                    <h1>Titulo</h1>
+                    <h1>Titulo DOS</h1>
                     <h2>SubTitulo</h2>
 
                 </hgroup>
@@ -57,6 +61,7 @@
     </aside>
     <footer>
         Jymmygls
+        
     </footer>
 </body>
 </html>
