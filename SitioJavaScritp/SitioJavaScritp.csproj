@@ -152,7 +152,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CSS\Home.css" />
     <Content Include="CSS\Main.css" />
+    <Content Include="Home.aspx" />
     <Content Include="Imagenes\images.jpg" />
     <Content Include="Index.aspx" />
     <Content Include="Web.config" />
@@ -168,6 +170,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
