@@ -2,15 +2,14 @@
 
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="es">
 <head runat="server">
-    <title></title>
+    <title>Nuevos Estilos CSS3</title>
+    <link rel="stylesheet" href="CSS/Home.css">
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
-    
-    </div>
+        <header id="principal"><span id="titulo">Estilos CSS Web 2.0</span> </header>
     </form>
 </body>
 </html>
